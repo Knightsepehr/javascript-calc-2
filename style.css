@@ -1,0 +1,3 @@
+button:active:where(#calc-input){
+    background-color: red !important;
+}
